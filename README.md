@@ -13,7 +13,7 @@ You can also find me on [Twitter](https://twitter.com/f0lio) and [LinkedIn](http
 
 <p align="center">
 
-<a href="https://github.com/f0lio/itm4n">
+<a href="https://github.com/f0lio/f0lio">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=f0lio&include_all_commits=true&custom_title=f0lio's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
 </a>
 
