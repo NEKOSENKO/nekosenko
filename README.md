@@ -18,7 +18,7 @@ You can also find me on [Twitter](https://twitter.com/brija_jr) and [LinkedIn](h
 </a>
 
 <a href="https://github.com/nekosenko/nekosenko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekosenko&hide_title=false&exclude_repo=f0lio.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekosenko&hide_title=false&exclude_repo=senko.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
 </a>
 
 </p>
