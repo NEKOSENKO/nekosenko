@@ -1,4 +1,4 @@
-# NEKOSENKO aka SENKŌ - 閃光 ⚡- Master of Puppets
+# SENKŌ - 閃光 ⚡- Master of Puppets
 
 I’m currently learning many things, but focusing on AI and IoT.,</br>
 I'm a Digital Technology Architecture Student at 42 Network, 1337 Campus.
