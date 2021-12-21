@@ -1,6 +1,6 @@
 # SENKŌ - 閃光 ⚡- Master of Puppets
 
-I’m currently learning many things, but focusing on AI and IoT.,</br>
+I’m currently learning many things, but focusing on AI and IoT Newbie to Web3.0.,</br>
 I'm a Digital Technology Architecture Student at 42 Network, 1337 Campus.
 You can also find me on [Twitter](https://twitter.com/brija_jr) and [LinkedIn](https://linkedin.com/in/Mohammed-brija).
 
