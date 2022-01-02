@@ -1,9 +1,9 @@
 # SENKŌ - 閃光 ⚡- Master of Puppets
 
 I’m currently learning many things, but focusing on AI and IoT Newbie to Web3.0.,</br>
-Robots and NanoTech are the Next AGE
-Software Developer, Artist, Scientist, Writer, Guitarist, Basically a Polymath
-I dream of a world where there's no disability , I'll Change this one to it !
+Robots and NanoTech are the Next AGE </br>
+Software Developer, Artist, Scientist, Writer, Guitarist, Basically a Polymath </br>
+I dream of a world where there's no disability , I'll Change this one to it !</br>
 IT and Software Architecture Student at 42, 1337 Campus.
 You can also find me on [Twitter](https://twitter.com/brija_jr) and [LinkedIn](https://linkedin.com/in/Mohammed-brija).
 
