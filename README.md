@@ -1,6 +1,6 @@
 # SENKŌ - 閃光 ⚡- Master of Puppets
 
-I’m currently learning many things, but focusing on AI and IoT Newbie to Web3.0.,</br>
+I’m currently learning many things, but focusing on AI and IoT, Newbie to Web3.0.,</br>
 Robots and NanoTech are the Next AGE </br>
 Software Developer, Artist, Scientist, Writer, Guitarist, Basically a Polymath </br>
 I dream of a world where there's no disability , I'll Change this one to it !</br>
