@@ -1,6 +1,6 @@
 # SENKŌ - 閃光 ⚡- Master of Puppets
 
-Da Vinci of our Time 
+Da Vinci of our Time. </br>
 I’m currently learning many things, but focusing on AI, IoT/IIoT and NanoTech,</br>
 Robots and NanoTech are the Next AGE, I want to be a part of the 4th industrial age . </br>
 Software Developer, Artist, Scientist, Writer, Guitarist, Athlete Basically a Polymath </br>
