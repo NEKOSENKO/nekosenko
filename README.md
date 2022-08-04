@@ -1,4 +1,4 @@
-# SENKŌ - 閃光 ⚡- Master of Puppets
+# SENKŌ VON DOOM - 閃光 ⚡- Master of Puppets
 
 Da Vinci of our Time. </br>
 I’m currently learning many things, but focusing on AI, IoT/IIoT and NanoTech,</br>
