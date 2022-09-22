@@ -19,11 +19,11 @@ You can also find me on [Twitter](https://twitter.com/brija_jr) and [LinkedIn](h
 <p align="center">
 
 <a href="https://github.com/senkosupreme/senkosupreme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=senkosupreme&include_all_commits=true&custom_title=Senkosupreme's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=senkosupreme&theme=radical&show_icons=true" />
 </a>
 
 <a href="https://github.com/senkosupreme/senkosupreme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senkosupreme&hide_title=false&exclude_repo=senko.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senkosupreme&theme=radical&langs_count=3" />
 </a>
 <a>
  <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif" width=600 hight=338 />
